@@ -230,3 +230,13 @@ The governing hierarchy is:
 CURRENT PORTFOLIO DATA → SECURITY/ETF REFERENCE DATA → ACCOUNT RULES → PORTFOLIO GOVERNANCE → ANALYSIS → EXECUTION
 This hierarchy must be followed for every portfolio review, deployment decision and security recommendation.
 
+14. TAX TREATMENT
+Questrade RRSP
+The RRSP is a Canadian tax-deferred account. Investment income and realized gains can compound without current Canadian taxation while assets remain inside the account. Withdrawals are generally taxable under the applicable Canadian rules.
+Tax deferral is an important reason to prioritize long-term total return and compounding rather than current distributable income within this account.
+OCBC Brokerage
+The OCBC account is a taxable Singapore brokerage account, but Singapore generally does not impose capital gains tax on investment gains and generally does not tax dividends received by individuals from Singapore-resident companies under its one-tier corporate tax system.
+For portfolio construction purposes, this makes Singapore-listed dividend equities particularly tax-efficient: dividends from holdings such as DBS, OCBC, Singtel, SGX and ES3 can generally be received without Singapore personal income tax, while capital appreciation is generally not subject to Singapore capital gains tax.
+Foreign securities may still be subject to foreign withholding taxes or other source-country taxes, depending on the security’s domicile, structure and underlying income. Therefore, “OCBC = tax free” must not be assumed for every investment held in the account.
+Portfolio implication: Singapore dividend stocks can provide relatively tax-efficient spendable income through OCBC, while the RRSP is better viewed as a tax-deferred compounding vehicle. Tax treatment should therefore be considered when deciding which account and security structure best serves a particular portfolio role.
+
